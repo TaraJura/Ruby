@@ -6,3 +6,5 @@ def test(a)
         puts " Funguje i 2. linka !"
     end
 end
+
+puts test(a)
